@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rploader",
+  "name": "RP Loader",
+  "description": "A small mod made by Scyu_ for the mods of wynncraft to help moderate easier",
+  "version": "1.1",
+  "mcversion": "1.11",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Scyu_"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
